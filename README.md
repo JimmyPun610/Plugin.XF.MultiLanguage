@@ -53,7 +53,7 @@ StringLoader.Instance.GetString("ResourceKey").Value;
 ```
 
 #### Important to know
-As the plugin does not save the language preference, the app should set the language again when it is launching. Otherwise, it will take DeviceUICultureInfo as the culture info.
+As the plugin does not save the language preference, the app should set the language again while launching. Otherwise, it will take DeviceUICultureInfo as the culture info.
 
 
 #### Reference
