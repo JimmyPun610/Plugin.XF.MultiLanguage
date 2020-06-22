@@ -7,6 +7,8 @@
     <PackageReleaseNotes>1. First init</PackageReleaseNotes>
     <RepositoryUrl>https://github.com/JimmyPun610/Plugin.XF.MultiLanguage</RepositoryUrl>
     <PackageTags>XamarinForms, Xamarin</PackageTags>
+    <PackageProjectUrl>https://github.com/JimmyPun610/Plugin.XF.MultiLanguage</PackageProjectUrl>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
 </Project>
