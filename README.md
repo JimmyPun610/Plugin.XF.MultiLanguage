@@ -57,5 +57,5 @@ As the plugin does not save the language preference, the app should set the lang
 
 
 #### Reference
-##### [https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-lcid/70feba9f-294e-491e-b6eb-56532684c37f](LCID language code in HEX)
-##### [https://stackoverflow.com/questions/44410407/xamarin-forms-change-ui-language-at-runtime-xaml](Main logic of the plugin)
+##### <a href="https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-lcid/70feba9f-294e-491e-b6eb-56532684c37f">LCID language code in HEX</a>
+##### <a href="https://stackoverflow.com/questions/44410407/xamarin-forms-change-ui-language-at-runtime-xaml">Main logic of the plugin</a>
