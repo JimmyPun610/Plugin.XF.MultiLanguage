@@ -5,6 +5,8 @@
     <Description>Small plugin to allow Xamarin Forms apply different language on the fly</Description>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageReleaseNotes>1. First init</PackageReleaseNotes>
+    <RepositoryUrl>https://github.com/JimmyPun610/Plugin.XF.MultiLanguage</RepositoryUrl>
+    <PackageTags>XamarinForms, Xamarin</PackageTags>
   </PropertyGroup>
 
 </Project>
