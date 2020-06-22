@@ -35,7 +35,6 @@ namespace SampleApp.MultiLangage
         }
         private void setLanguage(int languageCode)
         {
-            System.Threading.Thread.CurrentThread.CurrentUICulture = new CultureInfo(languageCode);
             Plugin.XF.MultiLanguage.StringLoader.Instance.SetCultureInfo(new CultureInfo(languageCode));
         }
     }
