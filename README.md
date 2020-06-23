@@ -1,5 +1,9 @@
 This is a small plugin to allow Xamarin Forms apply different language on the fly
 
+#### Support
+##### Android
+##### iOS
+
 #### How to use
 1. Install the plugin to your Xamarin Form project (.net standard project only)
 ```
