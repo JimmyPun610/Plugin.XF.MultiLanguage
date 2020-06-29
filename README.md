@@ -14,9 +14,9 @@ Install-Package Plugin.XF.MultiLanguage
 
 2. Create your string resources file and define key and value
 ```XML
-String.resx         //Default
-String.es.resx      //Spanish
-String.zh.resx      //Chinese
+StringRes.resx         //Default
+StringRes.es.resx      //Spanish
+StringRes.zh.resx      //Chinese
 ```
 
 3. Init the library in App.cs with your ResourceManager
